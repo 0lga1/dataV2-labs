@@ -4,21 +4,15 @@
 
 ## Introduction
 
-Resolving Git conflicts and merging branches is an import skill every software/data engineer must possess because code conflicts occur on daily basis in collaborative projects. This lab will help you learn the complete process of resolving and merging conflicts and become prepared to solve Git conflicts next time you encounter them.
-
-### Prerequisites
-
-* At this point you should have created a fork in your own Git account from the bootcamp's lab repo. 
+Resolving Git conflicts and merging branches is an import skill every software/data engineer must possess because code conflicts occur on daily basis in collaborative projects. This lab will help you learn the complete process of resolving and merging conflicts and become prepared to solve Git conflicts next time you encouned a fork in your own Git account from the bootcamp's lab repo. 
 
 * You should also have cloned your forked repo to your computer.
 
 If you have any doubts about the prerequisites please clarify with your instructor or teaching assistants.
 
-### Overview of Steps
-
 Below is a summary of the steps you will follow in this lab:
 
-1. Commit changes on local branch and sync with remote.
+1 Commit changes on local branch and sync with remote.
 1. Create a conflict with the master branch.
 1. Resolve the conflict.
 1. Merge your branch.
